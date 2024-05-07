@@ -50,7 +50,7 @@ function speakOutLoud(message) {
   } else if (whatToSpeak.includes("Chi è Ric")) {
     window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D", "_blank");
   } else if (whatToSpeak.includes("riconoscimi")) {
-    window.open("http://127.0.0.1:5500/index.html", "_blank");
+    window.open("http://127.0.0.1:5500/index34.html", "_blank");
   }
   
   // The action of saying or expressing something aloud..
